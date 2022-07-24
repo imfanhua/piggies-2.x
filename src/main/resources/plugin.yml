@@ -1,0 +1,6 @@
+name: Piggies
+version: '${project.version}'
+main: me.fanhua.piggies.Piggies
+api-version: 1.16
+load: STARTUP
+authors: [ "FanHua (i@fanhua.me)" ]
